@@ -8,7 +8,7 @@ PlayerSettings:
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 2
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -89,7 +89,7 @@ PlayerSettings:
   submitAnalytics: 1
   usePlayerLog: 1
   dedicatedServerOptimizations: 0
-  bakeCollisionMeshes: 0
+  bakeCollisionMeshes: 1
   forceSingleInstance: 0
   useFlipModelSwapchain: 1
   resizableWindow: 0
@@ -913,7 +913,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
